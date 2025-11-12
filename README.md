@@ -129,7 +129,7 @@ Traditional math tutoring systems are either:
 │   React Frontend (Port 5173)        │
 │   - Question Input                  │
 │   - Solution Display (Markdown)     │
-│   - Feedback Collection (★★★★★)     │
+│   - Feedback Collection (★★★★★)   │
 └──────────────┬──────────────────────┘
                │ REST API
                ▼
@@ -611,3 +611,4 @@ For questions, issues, or feedback:
 [⬆ Back to Top](#-math-professor-ai---agentic-rag-system)
 
 </div>
+
