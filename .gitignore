@@ -1,0 +1,11 @@
+# Create .gitignore if it doesn't exist
+echo .env >> .gitignore
+echo __pycache__/ >> .gitignore
+echo *.pyc >> .gitignore
+echo node_modules/ >> .gitignore
+echo .venv/ >> .gitignore
+echo venv/ >> .gitignore.env 
+.env 
+backend\.env 
+__pycache__\ 
+node_modules\ 

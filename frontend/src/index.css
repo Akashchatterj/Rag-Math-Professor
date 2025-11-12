@@ -1,0 +1,19 @@
+/* src/index.css */
+
+/* Tailwind base layers */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: custom global styling for better look */
+body {
+  @apply bg-gray-50 text-gray-900 font-sans;
+}
+
+textarea {
+  @apply resize-none;
+}
+
+button:disabled {
+  @apply opacity-50 cursor-not-allowed;
+}
